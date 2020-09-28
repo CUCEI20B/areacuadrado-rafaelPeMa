@@ -1,2 +1,1 @@
-lado = int(input())
-print(lado*lado)
+print(int(input())**2)
